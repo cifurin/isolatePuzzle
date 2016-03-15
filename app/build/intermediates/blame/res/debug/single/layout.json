@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
