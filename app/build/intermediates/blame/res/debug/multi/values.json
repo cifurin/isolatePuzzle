@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,15 +12,7 @@
                     "endOffset": 495
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endLine": 13,
-                        "endColumn": 19,
-                        "endOffset": 470
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -33,15 +25,7 @@
                     "endOffset": 886
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 476,
-                        "endLine": 25,
-                        "endColumn": 19,
-                        "endOffset": 873
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -53,14 +37,7 @@
                     "endOffset": 925
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 38,
-                        "endOffset": 425
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -72,14 +49,7 @@
                     "endOffset": 965
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 632,
-                        "endColumn": 39,
-                        "endOffset": 667
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -91,14 +61,7 @@
                     "endOffset": 1004
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 552,
-                        "endColumn": 38,
-                        "endOffset": 586
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -110,14 +73,7 @@
                     "endOffset": 1046
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 102,
-                        "endColumn": 41,
-                        "endOffset": 139
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -129,14 +85,7 @@
                     "endOffset": 1085
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 226,
-                        "endColumn": 38,
-                        "endOffset": 260
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -148,14 +97,7 @@
                     "endOffset": 1125
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 39,
-                        "endOffset": 546
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -167,14 +109,7 @@
                     "endOffset": 1164
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 431,
-                        "endColumn": 38,
-                        "endOffset": 465
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -186,14 +121,7 @@
                     "endOffset": 1205
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 349,
-                        "endColumn": 40,
-                        "endOffset": 385
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -205,14 +133,7 @@
                     "endOffset": 1244
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 592,
-                        "endColumn": 38,
-                        "endOffset": 626
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -224,14 +145,7 @@
                     "endOffset": 1284
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 266,
-                        "endColumn": 39,
-                        "endOffset": 301
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -243,14 +157,7 @@
                     "endOffset": 1325
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 307,
-                        "endColumn": 40,
-                        "endOffset": 343
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -262,14 +169,7 @@
                     "endOffset": 1363
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 145,
-                        "endColumn": 37,
-                        "endOffset": 178
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -281,14 +181,7 @@
                     "endOffset": 1404
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 184,
-                        "endColumn": 40,
-                        "endOffset": 220
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -300,14 +193,7 @@
                     "endOffset": 1443
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 471,
-                        "endColumn": 38,
-                        "endOffset": 505
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -319,14 +205,7 @@
                     "endOffset": 1483
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 39,
-                        "endOffset": 54
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -338,14 +217,7 @@
                     "endOffset": 1524
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 60,
-                        "endColumn": 40,
-                        "endOffset": 96
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -357,14 +229,7 @@
                     "endOffset": 1582
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 92,
-                        "endColumn": 57,
-                        "endOffset": 145
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -376,14 +241,7 @@
                     "endOffset": 1638
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 55,
-                        "endOffset": 202
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -395,14 +253,7 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 165,
-                        "endColumn": 52,
-                        "endOffset": 213
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -410,8 +261,8 @@
                     "startLine": 45,
                     "startColumn": 4,
                     "startOffset": 1696,
-                    "endColumn": 48,
-                    "endOffset": 1740
+                    "endColumn": 44,
+                    "endOffset": 1736
                 },
                 "from": {
                     "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
@@ -419,8 +270,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 59,
-                        "endColumn": 48,
-                        "endOffset": 103
+                        "endColumn": 44,
+                        "endOffset": 99
                     }
                 }
             },
@@ -428,94 +279,66 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 1745,
+                    "startOffset": 1741,
                     "endColumn": 41,
-                    "endOffset": 1782
+                    "endOffset": 1778
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 380,
-                        "endColumn": 41,
-                        "endOffset": 417
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 1787,
+                    "startOffset": 1783,
                     "endColumn": 50,
-                    "endOffset": 1833
+                    "endOffset": 1829
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 423,
-                        "endColumn": 50,
-                        "endOffset": 469
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 1838,
+                    "startOffset": 1834,
                     "endColumn": 48,
-                    "endOffset": 1882
+                    "endOffset": 1878
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 330,
-                        "endColumn": 48,
-                        "endOffset": 374
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 1887,
+                    "startOffset": 1883,
                     "endColumn": 52,
-                    "endOffset": 1935
+                    "endOffset": 1931
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 219,
-                        "endColumn": 52,
-                        "endOffset": 267
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 1940,
-                    "endColumn": 68,
-                    "endOffset": 2004
+                    "startOffset": 1936,
+                    "endColumn": 37,
+                    "endOffset": 1969
                 },
                 "from": {
                     "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 559,
-                        "endColumn": 68,
-                        "endOffset": 623
+                        "startOffset": 690,
+                        "endColumn": 37,
+                        "endOffset": 723
                     }
                 }
             },
@@ -523,118 +346,86 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2009,
-                    "endColumn": 82,
-                    "endOffset": 2087
+                    "startOffset": 1974,
+                    "endColumn": 68,
+                    "endOffset": 2038
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 475,
-                        "endColumn": 82,
-                        "endOffset": 553
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2092,
-                    "endColumn": 63,
-                    "endOffset": 2151
+                    "startOffset": 2043,
+                    "endColumn": 82,
+                    "endOffset": 2121
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 629,
-                        "endColumn": 63,
-                        "endOffset": 688
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 2156,
-                    "endColumn": 55,
-                    "endOffset": 2207
+                    "startOffset": 2126,
+                    "endColumn": 63,
+                    "endOffset": 2185
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 273,
-                        "endColumn": 55,
-                        "endOffset": 324
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 2212,
-                    "endColumn": 54,
-                    "endOffset": 2262
+                    "startOffset": 2190,
+                    "endColumn": 55,
+                    "endOffset": 2241
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 109,
-                        "endColumn": 54,
-                        "endOffset": 159
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 2267,
-                    "endLine": 61,
-                    "endColumn": 12,
-                    "endOffset": 2553
+                    "startOffset": 2246,
+                    "endColumn": 54,
+                    "endOffset": 2296
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 192,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 484
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2558,
-                    "endLine": 64,
+                    "startOffset": 2301,
+                    "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 2713
+                    "endOffset": 2379
                 },
                 "from": {
-                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 525,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 682
-                    }
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "C:\\Users\\Chris\\AndroidStudio\\isolate\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

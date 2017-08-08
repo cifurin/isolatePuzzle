@@ -15,5 +15,10 @@
         android:orderInCategory="100"
         android:showAsAction="ifRoom"
         android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/help"/>
 
 </menu>

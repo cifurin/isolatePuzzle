@@ -48,6 +48,7 @@ public final class R {
         public static final int button1=0x7f0b0007;
         public static final int button2=0x7f0b0008;
         public static final int button3=0x7f0b0006;
+        public static final int help=0x7f0b000c;
         public static final int item1=0x7f0b000a;
         public static final int item2=0x7f0b000b;
         public static final int level=0x7f0b0004;
@@ -69,24 +70,18 @@ public final class R {
         public static final int btn_level=0x7f090003;
         public static final int btn_newgame=0x7f090004;
         public static final int hello_world=0x7f090005;
-        public static final int pref_puzzle_difficulty=0x7f090006;
-        public static final int pref_puzzle_difficulty_summary=0x7f090007;
-        public static final int pref_update_setting=0x7f090008;
-        public static final int title_activity_main=0x7f090009;
-        public static final int welcome=0x7f09000a;
+        public static final int help=0x7f090006;
+        public static final int pref_puzzle_difficulty=0x7f090007;
+        public static final int pref_puzzle_difficulty_summary=0x7f090008;
+        public static final int pref_update_setting=0x7f090009;
+        public static final int title_activity_main=0x7f09000a;
+        public static final int welcome=0x7f09000b;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f060000;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f060001;
     }
     public static final class xml {
