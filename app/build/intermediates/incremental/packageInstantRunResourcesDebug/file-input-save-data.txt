@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Aug 08 18:43:00 BST 2017
+2.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+4.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\isolate.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_menu.xml
+10.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\settings.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_instructions.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -178,6 +178,11 @@ public class GameActivity extends Activity implements gameListener {
 			Intent settingsIntent = new Intent(this, UserSettingActivity.class);
 			startActivityForResult(settingsIntent, RESULT_SETTINGS);
 			break;
+		case R.id.help:
+				Log.d(TAG, "Instructions");
+				Intent instrIntent = new Intent(this, InstructionsActivity.class);
+				startActivityForResult(instrIntent, RESULT_SETTINGS);
+				break;
 		case R.id.item1:
 			// increase difficulty level
 			if (Integer.parseInt(level) < 10) {

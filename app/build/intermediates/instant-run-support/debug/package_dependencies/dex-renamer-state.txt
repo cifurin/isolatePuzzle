@@ -1,0 +1,7 @@
+#Tue Aug 08 18:43:08 BST 2017
+base.0=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1f333e7a902d63ef852970ce372e9e98a5ecf1f6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_7c1e57d535ad13c3c5630fe044433ea64f14b16b\\classes.dex
+base.1=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_7c1e57d535ad13c3c5630fe044433ea64f14b16b
+file.0=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1f333e7a902d63ef852970ce372e9e98a5ecf1f6\\classes.dex

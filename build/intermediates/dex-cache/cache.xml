@@ -3,12 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Chris\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\Chris\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_83b6bcddcc138f924a2cdb05339320020c982cce\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7c1e57d535ad13c3c5630fe044433ea64f14b16b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chris\.android\build-cache\b9c3ea2d0c99ecf02768ac20db2b9840a4f9a452\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f333e7a902d63ef852970ce372e9e98a5ecf1f6\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -16,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d176a26f9632bcee9d0be26430ec2dd7cfd25e90">
+        sha1="c42e4513e3d6451b2a0a4180f00e22ad68f58988">
         <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c556c47f922bb1eda78e39f8b926671397a14b36\classes.dex" />
     </item>
     <item
