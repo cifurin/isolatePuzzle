@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Chris\StudioProjects\isolatePuzzle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86a87a69f46ca4cf3eddd671f1593fd6005b734e">
+        <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c556c47f922bb1eda78e39f8b926671397a14b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Chris\StudioProjects\isolatePuzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5e4fd7e7bb79fe698571ed5e1d43b98d54693349\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Chris\StudioProjects\isolatePuzzle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ba1c8f88fdc5b0608e0ebf26e18ad1f590d30c7e">
-        <dex dex="C:\Users\Chris\StudioProjects\isolatePuzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_435e4715977c0627f108448679718286277d669f\classes.dex" />
+        <dex dex="C:\Users\Chris\AndroidStudio\isolate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_144c31cd559ea3f167c694299ce94ee5765bdb64\classes.dex" />
     </item>
 
 </items>
