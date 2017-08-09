@@ -1,4 +1,4 @@
-#Tue Aug 08 18:43:09 BST 2017
-base.0=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+#Tue Aug 08 23:18:08 BST 2017
+base.0=C\:\\Users\\Chris\\StudioProjects\\isolatePuzzle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=C\:\\Users\\Chris\\AndroidStudio\\isolate\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+file.0=C\:\\Users\\Chris\\StudioProjects\\isolatePuzzle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
