@@ -15,4 +15,28 @@
     <string name="help">Help</string>
     <string name="title_activity_instructions">InstructionsActivity</string>
 
+    <string name="test">
+        <![CDATA[
+        <h1>Instructions</h1>
+        <p>The puzzle grid is partially completed with walls attached to the 16 pillars (+).</p>
+        <p>The aim is to divide the grid up into a number of <b>isolated</b> areas.</p>
+        <p>The number and size of the areas is given by the numbers immediateley below the grid.</p>
+        <p>Tap the grid to add walls and build each area.</p>
+        <p>Each area <b>MUST</b> contain exactly 2 blue dots.</p>
+        <p>Each + <b>MUST</b> be connected to at least 2 walls.</p>
+        <p>This is a UL list:
+        <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ul>
+        <p>This is an OL list:
+        <ol>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ol>
+        ]]>
+    </string>
+
 </resources>
